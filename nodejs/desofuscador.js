@@ -1,6 +1,7 @@
 /****************************
  * CRIADO POR: Arthur da Paz
  * git: github.com/arthurdapaz
+ * twitter: @arthurdapaz_
  * 
  * inspirado por Caloni!
 *****************************/
