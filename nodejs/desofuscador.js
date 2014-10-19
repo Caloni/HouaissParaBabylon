@@ -1,3 +1,11 @@
+/****************************
+ * CRIADO POR: Arthur da Paz
+ * git: github.com/arthurdapaz
+ * 
+ * inspirado por Caloni!
+*****************************/
+
+
 var fs = require('fs')
 var stream = require('stream');
 
