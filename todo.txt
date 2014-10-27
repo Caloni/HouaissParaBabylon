@@ -1,0 +1,3 @@
+ - Migrar todo o código para o script Python desenvolvido pelo Fabio.
+ - Incorporar correções do Arthur.
+ - Flexibilizar saída do conversor (Babylon, SQL, etc).
