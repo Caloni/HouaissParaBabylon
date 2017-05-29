@@ -25,7 +25,7 @@ var deah = fs.readdirSync(pastaHouaiss);
 for (var i = 0; i < deah.length; i++) {
 
     /* lê o arquivo do dicionário */
-	var input = fs.createReadStream(pastaHouaiss + deah[i], 'utf-8');
+	var input = fs.createReadStream(pastaHouaiss + deah[i]);
 
 	/* prepara a saída do arquivo desofuscado */
 	var output = fs.createWriteStream(deah[i] + '.txt', 'utf-8');
