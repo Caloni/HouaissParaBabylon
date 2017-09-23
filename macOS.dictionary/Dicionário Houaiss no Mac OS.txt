@@ -1,0 +1,6 @@
+O desenvolvedor vmartins elaborou uma versao do dicionario
+que pode ser usado no seu Mac OS ou no seu iPhone/iPad (se voce possuir jailbreak);
+
+Basta acessar e instalar o dicionario Houaiss no seu Mac seguindo as instrucoes.
+
+https://github.com/vmartins/Houaiss.dictionary
