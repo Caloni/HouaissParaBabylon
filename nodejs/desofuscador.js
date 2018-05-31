@@ -21,8 +21,10 @@ var iconv = require('iconv-lite');
 var pastaHouaiss = "C:/Program Files (x86)/Houaiss3/dicionario/";
 var deah = fs.readdirSync(pastaHouaiss);
 
-/* em cada arquivo do dicionário executa a desofuscação */
-for (var i = 0; i < deah.length; i++) {
+/* em cada arquivo do dicionário executa a desofuscação
+   ps: apenas os 20 primeiros arquivos contém informações
+   relacionadas ao dicionário, verbetes, locuções, etc... */
+for (var i = 0; i < 20; i++) {
 
     /* lê o arquivo do dicionário */
 	var input = fs.createReadStream(pastaHouaiss + deah[i]);
